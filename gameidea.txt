@@ -1,0 +1,17 @@
+1) A turtle is swimming in the ocean
+    - background water moving animation/ changing background which gives a sense of moving distance or use a static
+    background with a distance moved display/ a swimming animation for the turtle
+
+    -> swimming turtle animation (moving flippers) + other moving miscellaneous objects such as the ocean bed**
+    -> the player can only move the turtle up or down. the player cannot move the turtle front or back **
+
+3) upon eating seaweed/ vegetation, the hunger bar will refill slightly ( done)
+4) there are different types of vegetation that fill the hunger bar by different levels.
+5) the goal is to travel the furthest without dying
+6) upon eating straws the health bar decreases ( not implemented )
+7) upon eating a plastic bag the turtle "suffocates for a while". The turtle is unable to eat anything. ( done)
+8) Instead of "rounds", the difficulty increases with distance travelled.
+9) pitch the idea to google to add on their webpage so that they can raise awareness about ocean life and wellfare.
+10) Try to launch a playable version and try to use the money for some greater good.
+
+Today's goal:
